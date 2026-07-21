@@ -1,4 +1,4 @@
-package functional;
+package functional;   
 
 public class Screen {
          Display d= () -> System.out.println("bolu");
